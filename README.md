@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m a Computer Engineering student at Politecnico di Tor
 ### 🌟 What I Do:  
 - **Robotics:** On-Board Software Developer for Team DIANA, working on rover communication systems using ROS 2 and C++.  
 - **Quantum Computing:** Experience with IBM Qiskit, quantum mechanics, and algorithm design.  
-- **Software Development:** Skilled in Python, C++, and system-level programming for high-performance applications.  
+- **Software Development:** Skilled in Python, C, and system-level programming for high-performance applications.  
 
 ### 🛠️ Technical Skills:  
 - **Languages:** Python, C, C++, MATLAB  
