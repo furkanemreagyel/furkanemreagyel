@@ -13,5 +13,5 @@ Welcome to my GitHub! I’m a Computer Engineering student at Politecnico di Tor
 - **Frameworks:** NumPy, Pandas, Flask  
 
 ### 🌍 Let’s Connect:  
-- **LinkedIn:** [linkedin.com/in/furkanagyel/](https://linkedin.com/in/furkanagyel/)  
-- **Email:** furkan.emre.agyel@gmail.com  
+- **Email:** furkan.emre.agyel@gmail.com
+- **LinkedIn:** [linkedin.com/in/furkanagyel/](https://linkedin.com/in/furkanagyel/)    
